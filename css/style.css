@@ -22,18 +22,14 @@ h2 {
 }
 
 
-
-
 /* Id selector */
+#main-title {
+    background-color: black;
+    color: white;
+}
 
 
 /* Combinator - descendant selector (space) */
-
-
 /* Combinator - child selector (>) */
-
-
 /* Combinator - adjacent sibling selector (+) */
-
-
 /* Combinator - general sibiling selector (~) */
