@@ -1,0 +1,32 @@
+/* Universal selector */
+
+* {
+    font-family: "Arial", "Courier New", "Garamond";
+}
+
+
+/* Type selector */
+a {
+    font-style: italic;
+}
+
+h2 {
+    color: red;
+}
+
+/* Class selector */
+
+
+/* Id selector */
+
+
+/* Combinator - descendant selector (space) */
+
+
+/* Combinator - child selector (>) */
+
+
+/* Combinator - adjacent sibling selector (+) */
+
+
+/* Combinator - general sibiling selector (~) */
