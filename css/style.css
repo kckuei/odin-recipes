@@ -15,6 +15,13 @@ h2 {
 }
 
 /* Class selector */
+.recipe-title {
+    font-style: italic;
+    background-color: rgb(95, 174, 4);
+    color: white;
+}
+
+
 
 
 /* Id selector */
